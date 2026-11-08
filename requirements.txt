@@ -3,3 +3,4 @@ streamlit
 youtube-transcript-api
 python-dotenv
 crewai[litellm]
+youtube-transcript-api
